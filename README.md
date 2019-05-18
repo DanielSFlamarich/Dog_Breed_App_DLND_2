@@ -1,24 +1,13 @@
 # Dog Breed App
-Convolutional Neural Network used to classify dog breeds.
+Convolutional Neural Network is used to classify dog breeds.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Further Explanation
+This notebook is the second project form the Udacity Deep Learning nanodegree. It's also the first exercise where a convolutional neural network is introduced. The main focus is to train the network to distinguish different breeds of dogs.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
+- Python 3.7 notebook 
+- ```pytorch```
+- ```numpy```
+- ```pandas```
+- ```matplotlib```
+- ```torchvision```
